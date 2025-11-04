@@ -4,7 +4,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-👋 Oi! Sou a Emilly, estudante na ETEC de Hortolândia, apaixonada por tecnologia e desenvolvimento front-end.  
+Tenho 16 anos e sou apaixonada por tecnologia, design e desenvolvimento front-end.   
 
 Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempre pensando na experiência do usuário.  
 
