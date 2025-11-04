@@ -25,4 +25,13 @@ Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempr
 
 <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=emillysbrito&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" />
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/emillysbrito/emillysbrito/output/snake.svg" alt="Snake animation" />
+
+###
+
 </div>
