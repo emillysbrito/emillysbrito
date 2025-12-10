@@ -19,15 +19,6 @@ Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempr
 <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<br/><br/>
-
-### 📊 Estatísticas  
-
-<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=emillysbrito&show_icons=true&theme=omni&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br" />
-
-<img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillysbrito&layout=compact&theme=omni&include_all_commits=true&count_private=true" />
-
-
 ###
 
 <br clear="both">
