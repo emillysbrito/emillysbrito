@@ -12,12 +12,13 @@ Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempr
 
 ### ⚙️ Linguagens e Tecnologias  
 
-<img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-NATIVE-button.png" height="28" alt="React Native">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">
 
 ###
 
