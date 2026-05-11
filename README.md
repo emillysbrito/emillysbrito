@@ -4,7 +4,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Tenho 16 anos e sou apaixonada por tecnologia, design e desenvolvimento front-end.   
+Tenho 17 anos e sou apaixonada por tecnologia, design e desenvolvimento front-end.   
 
 Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempre pensando na experiência do usuário.  
 
