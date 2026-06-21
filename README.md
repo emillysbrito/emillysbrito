@@ -17,8 +17,6 @@ Meu foco é criar aplicações utilizando **React.js** e **React Native**, sempr
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-NATIVE-button.png" height="28" alt="React Native">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIGMA-button.png" height="28" alt="Figma">
 
 ###
